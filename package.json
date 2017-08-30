@@ -1,0 +1,23 @@
+{
+  "name": "@progre/tslint-config",
+  "version": "5.0.0",
+  "description": "",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/progre/tslint-config.git"
+  },
+  "author": "progre",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/progre/tslint-config/issues"
+  },
+  "homepage": "https://github.com/progre/tslint-config#readme",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.2.1",
+    "tslint-microsoft-contrib": "^5.0.1"
+  }
+}
