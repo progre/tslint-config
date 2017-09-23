@@ -14,11 +14,17 @@
     ]
   },
   "rules": {
+    "completed-docs": [
+      false
+    ],
     "export-name": false,
     "function-name": false,
     "interface-name": [
       true,
       "never-prefix"
+    ],
+    "linebreak-style": [
+      false
     ],
     "member-access": false,
     "member-ordering": [
@@ -27,14 +33,20 @@
     "missing-jsdoc": false,
     "newline-before-return": false,
     "no-any": false,
+    "no-backbone-get-set-outside-model": false,
     "no-default-export": false,
+    "no-multiline-string": false,
     "no-non-null-assertion": false,
     "no-parameter-properties": false,
     "no-relative-imports": false,
     "no-reserved-keywords": false,
     "no-require-imports": false,
     "no-single-line-block-comment": false,
+    "no-string-based-set-timeout": false,
+    "no-unsafe-any": false,
     "no-var-requires": false,
+    "react-a11y-event-has-role": false,
+    "react-a11y-img-has-alt": false,
     "react-tsx-curly-spacing": [
       true,
       "never",
@@ -42,6 +54,8 @@
         "allowMultiline": true
       }
     ],
+    "strict-boolean-expressions": false,
+    "ter-indent": false,
     "typedef": [
       true,
       "parameter",
