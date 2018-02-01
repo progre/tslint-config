@@ -42,7 +42,6 @@
     "no-reserved-keywords": false,
     "no-require-imports": false,
     "no-single-line-block-comment": false,
-    "no-string-based-set-timeout": false,
     "no-unsafe-any": false,
     "no-var-requires": false,
     "react-a11y-event-has-role": false,
