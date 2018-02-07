@@ -53,8 +53,6 @@
         "allowMultiline": true
       }
     ],
-    "strict-boolean-expressions": false,
-    "ter-indent": false,
     "typedef": [
       true,
       "parameter",
