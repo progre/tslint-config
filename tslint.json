@@ -46,13 +46,6 @@
     "no-var-requires": false,
     "react-a11y-event-has-role": false,
     "react-a11y-img-has-alt": false,
-    "react-tsx-curly-spacing": [
-      true,
-      "never",
-      {
-        "allowMultiline": true
-      }
-    ],
     "typedef": [
       true,
       "parameter",
