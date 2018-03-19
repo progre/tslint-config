@@ -14,6 +14,7 @@
     ]
   },
   "rules": {
+    "binary-expression-operand-order": false,
     "completed-docs": [
       false
     ],
