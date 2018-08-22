@@ -1,6 +1,6 @@
 {
   "name": "@progre/tslint-config",
-  "version": "5.9.0",
+  "version": "5.10.0",
   "description": "",
   "main": "tslint.json",
   "scripts": {
@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/progre/tslint-config#readme",
   "dependencies": {
-    "tslint-config-airbnb": "~5.8.0",
-    "tslint-microsoft-contrib": "~5.0.3"
+    "tslint-config-airbnb": "~5.10.0",
+    "tslint-microsoft-contrib": "~5.2.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
   }
 }
